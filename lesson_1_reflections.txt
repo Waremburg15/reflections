@@ -1,0 +1,15 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+	This allowed me to compare the older and newer version of everything that I have to see where things changed and what is different that I didn't mean to have be different. I like being able to do this, but I don't like having to go through code.. if there had been more I would have been looking for a while. 
+How could having easy access to the entire histor of a file make you a more efficient programmer in the long term?
+	If there is something you have done wrong in the file, or you need to "undo" a lot of changes, you can simply go back to an older version instead of having to find a good place to stop undoing work. It can also help you find bugs more quickly by being able to compare the version you have now and the version you had then. 
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+	The pros to manually committing are that you can control the changes and try to keep the number of files you have to a minimum. The cons would be that you can easily forget to commit or that you make a few poor choices when committing and make it harder to figure out issues later on down the road. 
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	My assumption is that the Git program understands that in the programming world, it is easy to have a lot of files interconnected. However, with something like Google Docs, it is easier to assume that the files are separately saved for a reason, so when one is saved the rest don't have to be saved at the same time. 
+How can you use the commands git log and git diff to view the history of files?
+	The git log option allows me to view what all has happened in a file. The git diff option allows me to see a comparison between the last saved version and the one before that so I can see what changes were made between the two. 
+How might using version control make you more confident to make changes that could break something?
+	If I know I can go back to a later version to not only compare, but also to test, then I will feel better about implementing changes. The testing process is less risky than it seems.
+	The number of changes you can make in one setting is less limiting and allows for more "daring" changes.
+Now that you have your workspace set up, what do you want to try using Git for?
+	I would like to admit my code for the online portfolio I am working on. It would be really useful for when I am making modals and they aren't working. 
