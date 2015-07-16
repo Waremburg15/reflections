@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initializing a respository allows for me to start saving a new project in a different and more efficient/effective way. I need to do this to help keep my files more organized and to separate out all of my commits so bugs are easier to find. 
