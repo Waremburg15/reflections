@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
   When there is more than one person working on a project, I can see where it would be useful to have a remote repository. 
   I can also see how it would be best to have the same code available anywhere, for instance, if your work computer is a desktop but 
   you want to work from home one day, it would be useful to be able to remote in. 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Pulling changes manually allows for a much more controlled set of commits or inclusions in your code. It seems like you are running the risk of letting in bugs if you don't manually check over each commit before you include it in your code.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Forks are best used when the content is cloned with no intention of being merged with the original information. This is basically like cloning, except it is a less "involved" way of getting the information. Cloning is good for when you are collabrating and have the intent of merging back in. Branches are similar to both of these concepts, and they run in parallel with the master branch. 
