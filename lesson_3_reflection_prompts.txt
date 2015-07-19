@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 	Pulling changes manually allows for a much more controlled set of commits or inclusions in your code. It seems like you are running the risk of letting in bugs if you don't manually check over each commit before you include it in your code.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	Forks are best used when the content is cloned with no intention of being merged with the original information. This is basically like cloning, except it is a less "involved" way of getting the information. Cloning is good for when you are collabrating and have the intent of merging back in. Branches are similar to both of these concepts, and they run in parallel with the master branch. 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	This allows you to work on an up-to-date version no matter where you are or if you have internet access. It allows you to also compare commits and see what options work best.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I am not sure what it would be like to work without GitHub or Git. I have no experience with this kind of thing, so I probably would be pretty lost and would be copying, pasting, and causing lots of issues in my code! GitHub seems to do a really good job of organizing things and making merging content as easy as possible. 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When you are working on a feature that you aren't sure will work, but you want to test it, this is always best to do in a branch. I say this because it will save a lot of hurt later on if the new feature or setting doesn't work out or somehow breaks the whole thing. This is easier to fix on a branch than in master. However, doing everything on master allows for a more simple map of the project. The complexity of the project will determine the necessity of branches. 
+	
